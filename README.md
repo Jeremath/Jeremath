@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Jeremath
 
-<p align="center">
+<p >
   <img src="https://komarev.com/ghpvc/?username=Jeremath&label=Total%20Visitors&color=7F3FBF&style=flat-square" />
 </p>
 
