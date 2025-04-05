@@ -1,14 +1,15 @@
 ## Hi there 👋 I'm Jeremath
 
-🎓 Currently an undergraduate at **School of Cyber Engineering, Xidian University**  
-🚀 Working on **Next-Generation Internet** and **Autonomous Driving Systems**  
+🎓 Currently an undergraduate at **Xidian University**  
+🚀 I’m currently working on **Next-Generation Internet** and **Autonomous Driving Systems**  
+😄 The goal is to have one paper in the four major security conferences by 2025
 🤖 Passionate about Machine Learning, Deep Learning (with PyTorch), and a bit of Embodied AI  
 
 ---
 
 ### 🧠 Tech Interests & Skills
-- 🔬 Machine Learning & Deep Learning (PyTorch / CNNs / Transformers)
-- 🛠️ Algorithms and Data Structures (actively solving OI problems)
+- 🔬 Machine Learning & Deep Learning (PyTorch / Transformers)
+- 🛠️ Algorithms practice (actively solving OI problems)
 - 🧩 Curious about Embodied Intelligence
 - 🌐 Cybersecurity and Intelligent Systems
 
@@ -29,15 +30,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Jeremath&show_icons=true&theme=tokyonight" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jeremath" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jeremath" />
-</div>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremath&theme=xcode" />
 </div>
