@@ -1,6 +1,8 @@
 ## Hi there 👋 I'm Jeremath
 
-![Profile views](https://komarev.com/ghpvc/?username=Jeremath&color=blue)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jeremath&label=Total%20Visitors&color=7F3FBF&style=flat-square" />
+</p>
 
 🎓 Currently an undergraduate at **Xidian University**  
 🚀 I’m currently working on **Next-Generation Internet** and **Autonomous Driving Systems**  
