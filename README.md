@@ -12,7 +12,7 @@
 - 🔬 Machine Learning & Deep Learning (PyTorch / Transformers)
 - 🛠️ Algorithms practice (actively solving OI problems)
 - 🧩 Curious about Embodied Intelligence
-- 🌐 Cybersecurity and Intelligent Systems
+- 🌐 Cybersecurity and Network detection
 
 ---
 
