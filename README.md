@@ -38,7 +38,7 @@
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jeremath&theme=xcode" />
 </div>
-<a href="https://clustrmaps.com/site/1c5wk"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=yx2a2T8P9U4I9R2XQr_v4QF0V3rEB4otEJu0xX0mbYw&cl=ffffff" /></a>
+<a href="https://clustrmaps.com/site/1c5wk"  title="ClustrMaps"><img src="//www.clustrmaps.com/map_v2.png?d=yx2a2T8P9U4I9R2XQr_v4QF0V3rEB4otEJu0xX0mbYw&cl=ffffff" />Visitor statistics</a>
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
